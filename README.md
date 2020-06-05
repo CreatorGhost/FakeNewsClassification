@@ -21,10 +21,8 @@ In this project, we are going to classify whether a given news is **reliable** o
 -   **author**: author of the news article
 -   **text**: the text of the article; could be incomplete
 
-## Create files and folders
 
-The file explorer is accessible using the button in the left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
-### Methods Used
+## Methods Used
 
 -   Classifications
 -   Logistic regression
