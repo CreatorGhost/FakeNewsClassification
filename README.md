@@ -1,4 +1,4 @@
-A# Fake News Classification
+# Fake News Classification
 ## Objective
 
 In this project, we are going to classify whether a given news is **reliable** or **unreliable** using the given data set
