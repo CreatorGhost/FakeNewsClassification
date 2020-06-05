@@ -1,11 +1,11 @@
-# Fake News Classification
+A# Fake News Classification
 ## Objective
 
 In this project, we are going to classify whether a given news is **reliable** or **unreliable** using the given data set
 
 ## Data
 
-**Data Source : **  [https://www.kaggle.com/c/fake-news](https://www.kaggle.com/c/fake-news)
+**Data Source :**   [https://www.kaggle.com/c/fake-news](https://www.kaggle.com/c/fake-news)
 *Train DataSet*
 -   **id**: unique id for a news article
 -   **title**: the title of a news article
@@ -23,12 +23,12 @@ In this project, we are going to classify whether a given news is **reliable** o
 
 ## Create files and folders
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+The file explorer is accessible using the button in the left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 ### Methods Used
 
 -   Classifications
 -   Logistic regression
--   Decisiontree
+-   Decision tree
 -   KNeighbours
 -   Linear Discriminant
 ##  Project Description
@@ -48,6 +48,8 @@ Given a **title,  author and text** determine whether the news is reliable or un
  6. Used **Tf-Idf** to convert text into vector and also used **bigram**
  7.  Used different Machine Learning Models to find the one with the best accuracy
  8. Finally used Logistic Regression to predict our **test data**
- 9. Saved the output in a **csv** file
+ 9. Saved the output in a **CSV** file
  10. Submitted on Kaggle with **accuracy of 97%**   
 
+##  Conclusion
+No model can be perfect, so with a score of 97 % accuracy, I am pretty much surprised. But we also use some more turning to see if we can further increase our model accuracy.
