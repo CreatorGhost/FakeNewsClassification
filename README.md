@@ -5,7 +5,7 @@ In this project, we are going to classify whether a given news is **reliable** o
 
 ## Data
 
-**Data Source :**   [https://www.kaggle.com/c/fake-news](https://www.kaggle.com/c/fake-news)
+**Data Source :**   [https://www.kaggle.com/c/fake-news](https://www.kaggle.com/c/fake-news)<br>
 *Train DataSet*
 -   **id**: unique id for a news article
 -   **title**: the title of a news article
@@ -43,7 +43,7 @@ Given a **title,  author and text** determine whether the news is reliable or un
  1. Merged all three attributes _**title, author and text**_ into one new column **total**
  2. Filled Null Values
  3. Removed duplicate entries
- 4. **Text Cleaning - ** Removed Url, special characters, stopwords, and performed Snow Ball Steaming.
+ 4. **Text Cleaning -**  Removed Url, special characters, stopwords, and performed Snow Ball Steaming.
  5. Cleaned both test and train data
  6. Used **Tf-Idf** to convert text into vector and also used **bigram**
  7.  Used different Machine Learning Models to find the one with the best accuracy
