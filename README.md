@@ -51,3 +51,6 @@ Given a **title,  author and text** determine whether the news is reliable or un
 
 ##  Conclusion
 No model can be perfect, so with a score of 97 % accuracy, I am pretty much surprised. But we also use some more turning to see if we can further increase our model accuracy.
+
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/CreatorGhost/FakeNewsClassification/blob/master/FakeNewsClassification.ipynb)
